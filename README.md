@@ -18,6 +18,10 @@
 
 ## Manner of collection of personal information
 
+-[x] By unlawful means
+
+-[x] Are unfair
+
 ## Storage and security of personal information
 
 ## Access to personal information
