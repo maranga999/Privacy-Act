@@ -4,9 +4,13 @@
 
 ## Checklist
 
--[ ] Purpose of the collection of personal information
+## Purpose of the collection of personal information
 
--[ ] Source of personal information
+-[ ] Legally collected for function 
+-[ ] Necessary data collection for purpose
+
+##Source of personal information
+
 
 -[ ] Manner of collection of personal information
 
