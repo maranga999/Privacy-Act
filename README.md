@@ -29,3 +29,8 @@
 -[ ] Everthing reasonably possible to prevent unauthorised use/disclosure
 
 ## Access to personal information
+
+-[ ] Personal information by the individual to be easily retrieved
+
+-[ ] The individual to have access to personal information
+
