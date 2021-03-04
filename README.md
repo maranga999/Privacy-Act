@@ -12,9 +12,8 @@
 
 ## Source of personal information
 
+## Manner of collection of personal information
 
--[ ] Manner of collection of personal information
+## Storage and security of personal information
 
--[ ] Storage and security of personal information
-
--[ ] Access to personal information
+## Access to personal information
