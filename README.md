@@ -4,4 +4,4 @@
 
 ## Checklist
 
--[] Purpose of the collection of personal information
+-[ ] Purpose of the collection of personal information
